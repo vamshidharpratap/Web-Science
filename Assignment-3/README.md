@@ -3,7 +3,7 @@
 The goal of this exercise is to review the hypertext transfer protocol and gain a better
 understanding of how it works.
 
-Your task is to use the python programming language to create an HTTP client (httpclient.p that takes a URL as a command line argument and is able to download an arbitrary file from the World Wide Web and store it on your hard drive (in the same directory as your python code is running).
+Your task is to use the python programming language to create an HTTP client (httpclient.py that takes a URL as a command line argument and is able to download an arbitrary file from the World Wide Web and store it on your hard drive (in the same directory as your python code is running).
 The program should also print out the complete HTTP header of the response. Your program should only use the socket library so that you can open a TCP socket and sys library to do command line parsing.
 
 Your program should be able to successfully download: 
